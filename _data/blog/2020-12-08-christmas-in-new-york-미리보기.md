@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /intro
+path: /christmasinnewyorktrailer
 date: 2020-12-08T07:52:56.065Z
 title: Christmas in New York | Travel with Josh & Nancy | Trailer
 metaDescription: 뉴욕에서 보내는 크리스마스 2019
